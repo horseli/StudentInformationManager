@@ -1,0 +1,7 @@
+学号      姓名      联系电话
+
+1         li        0         
+2         zhang     0         
+3         liu       0         
+4         zeng      0         
+6         James     1345      

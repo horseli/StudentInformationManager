@@ -1,0 +1,11 @@
+﻿  person.cpp
+c:\users\asus\source\repos\学生信息管理系统\学生信息管理系统\person.cpp(229): warning C4101: “ave”: 未引用的局部变量
+c:\users\asus\source\repos\学生信息管理系统\学生信息管理系统\person.cpp(231): warning C4101: “low”: 未引用的局部变量
+c:\users\asus\source\repos\学生信息管理系统\学生信息管理系统\person.cpp(230): warning C4101: “high”: 未引用的局部变量
+c:\users\asus\source\repos\学生信息管理系统\学生信息管理系统\person.cpp(459): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\学生信息管理系统\学生信息管理系统\person.cpp(507): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\学生信息管理系统\学生信息管理系统\person.cpp(533): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  学生信息管理系统.vcxproj -> C:\Users\asus\source\repos\学生信息管理系统\Debug\学生信息管理系统.exe
+  学生信息管理系统.vcxproj -> C:\Users\asus\source\repos\学生信息管理系统\Debug\学生信息管理系统.pdb (Partial PDB)
